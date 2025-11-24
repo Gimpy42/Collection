@@ -1,6 +1,6 @@
 sources:
   - href: https://posts.specterops.io/feed
-  - href: https://sevrosecurity.com/feed/ 
+#  - href: https://sevrosecurity.com/feed/ 
 #  - href: https://portswigger.net/blog/rss 
 #  - href: https://portswigger.net/research/rss 
   - href: https://googleprojectzero.blogspot.com/feeds/posts/default
@@ -19,7 +19,7 @@ sources:
 #  - href: https://www.zerodayinitiative.com/blog/?format=rss
 # # - href: https://research.securitum.com/feed/ -> Look like they dont have feed anymore but still have post
 #  - href: https://windows-internals.com/feed/
-#  - href: https://a13xp0p0v.github.io/feed.xml
+  - href: https://a13xp0p0v.github.io/feed.xml
 #  - href: https://grsecurity.net/blog.rss
 #  - href: https://zeta-two.com/feed.xml
 ##  - href: https://www.nccgroup.com/us/research-blog/feed/
