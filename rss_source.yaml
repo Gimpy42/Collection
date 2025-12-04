@@ -21,7 +21,7 @@ sources:
 # # - href: https://research.securitum.com/feed/ -> Look like they dont have feed anymore but still have post
   - href: https://windows-internals.com/feed/
   - href: https://a13xp0p0v.github.io/feed.xml
-  #- href: https://grsecurity.net/blog.rss -> Must implement watcher refetch if content lenght small
+  - href: https://grsecurity.net/blog.rss -> Must implement watcher refetch if content lenght small
   - href: https://zeta-two.com/feed.xml
 ##  - href: https://www.nccgroup.com/us/research-blog/feed/
   - href: https://www.praetorian.com/blog/feed/
