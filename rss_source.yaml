@@ -14,28 +14,28 @@ sources:
 #  - href: https://blog.mindedsecurity.com/feeds/posts/default
 #  - href: https://blog.didierstevens.com/feed/
 #  # - href: https://www.hackerone.com/blog.rss -> Must be fixed buy splitting i think
-  - href: https://pentestlab.blog/feed/
-  - href: https://adsecurity.org/?feed=rss2
-  - href: https://www.tiraniddo.dev/feeds/posts/default
-  - href: https://www.zerodayinitiative.com/blog/?format=rss
+#  - href: https://pentestlab.blog/feed/
+#  - href: https://adsecurity.org/?feed=rss2
+#  - href: https://www.tiraniddo.dev/feeds/posts/default
+#  - href: https://www.zerodayinitiative.com/blog/?format=rss
 # # - href: https://research.securitum.com/feed/ -> Look like they dont have feed anymore but still have post
-  - href: https://windows-internals.com/feed/
-  - href: https://a13xp0p0v.github.io/feed.xml
+#  - href: https://windows-internals.com/feed/
+#  - href: https://a13xp0p0v.github.io/feed.xml
   - href: https://grsecurity.net/blog.rss
-  - href: https://zeta-two.com/feed.xml
+#  - href: https://zeta-two.com/feed.xml
 ##  - href: https://www.nccgroup.com/us/research-blog/feed/
-  - href: https://www.praetorian.com/blog/feed/
-  - href: https://rhinosecuritylabs.com/feed/
+#  - href: https://www.praetorian.com/blog/feed/
+#  - href: https://rhinosecuritylabs.com/feed/
 # # - href: https://www.blackarrow.net/feed/ -> Look like they dont have feed anymore but still have post
-  - href: https://phoenhex.re/feed.xml
-  - href: https://whtaguy.com/feed.xml
+#  - href: https://phoenhex.re/feed.xml
+#  - href: https://whtaguy.com/feed.xml
 # # - href: https://secret.club/feed.xml
-  - href: https://blog.doyensec.com/atom.xml
-  - href: https://blog.mozilla.org/attack-and-defense/feed/
-  - href: http://blog.pi3.com.pl/?feed=rss2
-  - href: https://mksben.l0.cm/feeds/posts/default?alt=rss
-  - href: https://ajxchapman.github.io/feed.xml
-  - href: https://blog.trailofbits.com/feed/
+#  - href: https://blog.doyensec.com/atom.xml
+#  - href: https://blog.mozilla.org/attack-and-defense/feed/
+#  - href: http://blog.pi3.com.pl/?feed=rss2
+#  - href: https://mksben.l0.cm/feeds/posts/default?alt=rss
+#  - href: https://ajxchapman.github.io/feed.xml
+#  - href: https://blog.trailofbits.com/feed/
 #  - href: https://sean.heelan.io/feed/
 #  - href: https://blog.exodusintel.com/feed/
 #  - href: https://markitzeroday.com/feed.xml
@@ -61,7 +61,7 @@ sources:
 #  - href: https://pentest.blog/feed/
 #  - href: https://blog.xpnsec.com/rss/
 #  - href: https://medium.com/feed/@cedowens
-  - href: https://blog.harmj0y.net/feed/
+#  - href: https://blog.harmj0y.net/feed/
 #  - href: https://vanmieghem.io/feed.xml
 #  - href: https://www.forrest-orr.net/blog/blog-feed.xml
 #  - href: https://www.arashparsa.com/rss/
@@ -74,9 +74,9 @@ sources:
 #  - href: https://mgeeky.tech/feed/
 #  - href: https://outflank.nl/blog/feed/
 #  - href: https://research.ifcr.dk/feed
-  - href: https://s3cur3th1ssh1t.github.io/feed.xml
+#  - href: https://s3cur3th1ssh1t.github.io/feed.xml
 #  - href: https://labs.watchtowr.com/rss/
 #  - href: https://c0rnbread.com/rss/
-  - href: https://dirkjanm.io/feed.xml
+#  - href: https://dirkjanm.io/feed.xml
 #  - href: https://sud0ru.ghost.io/rss/
 #  - href: https://blog.zsec.uk/rss/
