@@ -1,23 +1,23 @@
 sources:
 #  - href: https://talkback.sh/resources/feed/ -> Must implement watcher refetch if content lenght small
-#  - href: https://posts.specterops.io/feed
-#  - href: https://sevrosecurity.com/feed/ 
-#  - href: https://portswigger.net/blog/rss 
-#  - href: https://portswigger.net/research/rss 
+  - href: https://posts.specterops.io/feed
+  - href: https://sevrosecurity.com/feed/ 
+  - href: https://portswigger.net/blog/rss 
+  - href: https://portswigger.net/research/rss 
   - href: https://googleprojectzero.blogspot.com/feeds/posts/default
-#  - href: https://blog.carnal0wnage.com/feeds/posts/default
+  - href: https://blog.carnal0wnage.com/feeds/posts/default
 #  # - href: https://blog.skullsecurity.org/feed -> Seem to have abandon /feed and now just having post ... must be implimented in another worker
-#  - href: https://blog.silentsignal.eu/feed/
-#  - href: https://www.netspi.com/blog/technical-blog/feed/
-#  - href: https://malicious.link/post/index.xml
+  - href: https://blog.silentsignal.eu/feed/
+  - href: https://www.netspi.com/blog/technical-blog/feed/
+  - href: https://malicious.link/post/index.xml
 #  - href: https://www.corelan.be/index.php/feed/
-#  - href: https://blog.mindedsecurity.com/feeds/posts/default
-#  - href: https://blog.didierstevens.com/feed/
+  - href: https://blog.mindedsecurity.com/feeds/posts/default
+  - href: https://blog.didierstevens.com/feed/
 #  # - href: https://www.hackerone.com/blog.rss -> Must be fixed buy splitting i think
 #  - href: https://pentestlab.blog/feed/
 #  - href: https://adsecurity.org/?feed=rss2
 #  - href: https://www.tiraniddo.dev/feeds/posts/default
-#  - href: https://www.zerodayinitiative.com/blog/?format=rss
+  - href: https://www.zerodayinitiative.com/blog/?format=rss
 # # - href: https://research.securitum.com/feed/ -> Look like they dont have feed anymore but still have post
 #  - href: https://windows-internals.com/feed/
 #  - href: https://a13xp0p0v.github.io/feed.xml
@@ -61,7 +61,7 @@ sources:
 #  - href: https://pentest.blog/feed/
 #  - href: https://blog.xpnsec.com/rss/
 #  - href: https://medium.com/feed/@cedowens
-#  - href: https://blog.harmj0y.net/feed/
+  - href: https://blog.harmj0y.net/feed/
 #  - href: https://vanmieghem.io/feed.xml
 #  - href: https://www.forrest-orr.net/blog/blog-feed.xml
 #  - href: https://www.arashparsa.com/rss/
@@ -69,14 +69,14 @@ sources:
 #  - href: https://medium.com/feed/@assume-breach
 #  - href: https://www.sentinelone.com/labs/feed/
 #  - href: https://blog.nviso.eu/feed/
-#  - href: https://bishopfox.com/feeds/blog.rss
+  - href: https://bishopfox.com/feeds/blog.rss
 ##  - href: https://www.synack.com/blog/feed/ as des poste mais ne trouve plus le feed
 #  - href: https://mgeeky.tech/feed/
-#  - href: https://outflank.nl/blog/feed/
+  - href: https://outflank.nl/blog/feed/
 #  - href: https://research.ifcr.dk/feed
-#  - href: https://s3cur3th1ssh1t.github.io/feed.xml
+  - href: https://s3cur3th1ssh1t.github.io/feed.xml
 #  - href: https://labs.watchtowr.com/rss/
 #  - href: https://c0rnbread.com/rss/
-#  - href: https://dirkjanm.io/feed.xml
+  - href: https://dirkjanm.io/feed.xml
 #  - href: https://sud0ru.ghost.io/rss/
 #  - href: https://blog.zsec.uk/rss/
