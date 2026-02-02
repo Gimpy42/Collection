@@ -2,8 +2,8 @@ sources:
 #  - href: https://talkback.sh/resources/feed/ -> Must implement watcher refetch if content lenght small
   - href: https://posts.specterops.io/feed
   - href: https://sevrosecurity.com/feed/ 
-  - href: https://portswigger.net/blog/rss 
-  - href: https://portswigger.net/research/rss 
+#  - href: https://portswigger.net/blog/rss 
+#  - href: https://portswigger.net/research/rss 
   - href: https://googleprojectzero.blogspot.com/feeds/posts/default
   - href: https://blog.carnal0wnage.com/feeds/posts/default
 #  # - href: https://blog.skullsecurity.org/feed -> Seem to have abandon /feed and now just having post ... must be implimented in another worker
